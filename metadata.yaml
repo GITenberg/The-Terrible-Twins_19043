@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1357
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Jepson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19043#The-Terrible-Twins
 gutenberg_issued: '2006-08-14'
 gutenberg_type: Text
 identifiers:
